@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
+    <PackageVersion>0.1.0</PackageVersion>
+    <PackageId>securityJson-jwt</PackageId>
   </PropertyGroup>
 
 </Project>
